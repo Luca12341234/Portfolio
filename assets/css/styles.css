@@ -559,10 +559,6 @@ a{
   text-decoration: none;
 }
 
-.work__item {
-    text-align: center; /* Centra tutto il contenuto all'interno del work__item */
-}
-
 .work__link {
     display: block;
     margin-top: 10px; /* Distanza dall'immagine */
