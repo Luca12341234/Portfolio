@@ -558,3 +558,19 @@ a{
   color: inherit;
   text-decoration: none;
 }
+
+.work__item {
+    text-align: center; /* Centra tutto il contenuto all'interno del work__item */
+}
+
+.work__link {
+    display: block;
+    margin-top: 10px; /* Distanza dall'immagine */
+    font-size: 16px;
+    color: #007BFF; /* Colore del link */
+    text-decoration: none; /* Rimuove la sottolineatura */
+}
+
+.work__link:hover {
+    text-decoration: underline; /* Sottolineatura al passaggio del mouse */
+}
